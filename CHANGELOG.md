@@ -1,3 +1,6 @@
 ## 1.0.0
 
-- Initial version.
+- addition, subtraction, multiplication, division
+
+## 1.0.1
+- square root

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// import 'package:math_package/src/math_package_base.dart';
 import 'package:math_package/math_package.dart';
 
 void main() {

@@ -1,9 +1,5 @@
 // TODO: Put public facing types in this file.
-
-/// Checks if you are awesome. Spoiler: you are.
-// class Awesome {
-//   bool get isAwesome => true;
-// }
+import 'dart:math';
 
 class ArithmeticFunctions {
   static double add(double a, double b) {
@@ -24,5 +20,9 @@ class ArithmeticFunctions {
     } else {
       throw Exception("Cannot divide by zero");
     }
+  }
+
+  static double squareRoot(double number) {
+    return sqrt(number);
   }
 }
