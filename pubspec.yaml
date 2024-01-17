@@ -1,7 +1,7 @@
 name: math_package
-description: A starting point for Dart libraries or applications.
+description: A package for all oyur arithmatic operations.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/aanaltrivedi18/flutter_math_package
 
 environment:
   sdk: ^3.2.3
